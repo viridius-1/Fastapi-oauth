@@ -1,0 +1,7 @@
+.venv
+.vscode
+run.sh
+__pycache__/
+*.py[cod]
+*$py.class
+blacklist_db.txt
